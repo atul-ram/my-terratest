@@ -1,0 +1,5 @@
+/test/test_output/*
+test_output.log
+example*/.t*/*
+example*/terraform.tfstate
+example*/terraform.tfstate.backup
