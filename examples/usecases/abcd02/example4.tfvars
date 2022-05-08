@@ -1,3 +1,3 @@
-resource_group_name            = "odpt02-d-rg"
-usecase                        = "odpt02"
+resource_group_name            = "abcd02-d-rg"
+usecase                        = "abcd02"
 environment                    = "d"
